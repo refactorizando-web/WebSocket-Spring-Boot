@@ -13,7 +13,7 @@ Este ejemplo tiene un endpoint al que enviar un mensaje como si fuera un chat, y
 ## Cómo arrancar la aplicación
 
 
-git clone https://github.com/
+git clone https://github.com/refactorizando-web/WebSocket-Spring-Boot
 
 `
 mvn spring-boot:run
