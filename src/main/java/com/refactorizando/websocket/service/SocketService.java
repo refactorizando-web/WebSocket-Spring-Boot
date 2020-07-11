@@ -1,4 +1,4 @@
-package com.refactorizando.websocket.configuration;
+package com.refactorizando.websocket.service;
 
 import java.util.HashMap;
 import java.util.Map;

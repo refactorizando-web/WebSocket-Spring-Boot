@@ -3,6 +3,8 @@ package com.refactorizando.websocket.configuration;
 import org.springframework.context.event.EventListener;
 import org.springframework.web.socket.messaging.SessionDisconnectEvent;
 
+import com.refactorizando.websocket.service.SocketService;
+
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 
