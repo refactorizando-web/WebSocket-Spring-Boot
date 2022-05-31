@@ -7,7 +7,7 @@ Este ejemplo tiene un endpoint al que enviar un mensaje como si fuera un chat, y
 
 ## Artículos
 
- * [WebSocket con Spring Boot](https://refactorizando.com/swebsockets-spring-boot)
+ * [WebSocket con Spring Boot](https://refactorizando.com/websockets-spring-boot/)
 
 
 ## Cómo arrancar la aplicación
